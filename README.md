@@ -1,2 +1,2 @@
 # IBM-Data-Science-
-IBM Data Science Repository
+IBM Data Science Projects
